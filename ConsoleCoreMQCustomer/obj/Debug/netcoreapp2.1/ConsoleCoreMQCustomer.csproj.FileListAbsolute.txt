@@ -1,0 +1,11 @@
+D:\joey\DemoSln\ConsoleCoreMQCustomer\bin\Debug\netcoreapp2.1\ConsoleCoreMQCustomer.deps.json
+D:\joey\DemoSln\ConsoleCoreMQCustomer\bin\Debug\netcoreapp2.1\ConsoleCoreMQCustomer.runtimeconfig.json
+D:\joey\DemoSln\ConsoleCoreMQCustomer\bin\Debug\netcoreapp2.1\ConsoleCoreMQCustomer.runtimeconfig.dev.json
+D:\joey\DemoSln\ConsoleCoreMQCustomer\bin\Debug\netcoreapp2.1\ConsoleCoreMQCustomer.dll
+D:\joey\DemoSln\ConsoleCoreMQCustomer\obj\Debug\netcoreapp2.1\ConsoleCoreMQCustomer.csprojAssemblyReference.cache
+D:\joey\DemoSln\ConsoleCoreMQCustomer\obj\Debug\netcoreapp2.1\ConsoleCoreMQCustomer.csproj.CoreCompileInputs.cache
+D:\joey\DemoSln\ConsoleCoreMQCustomer\obj\Debug\netcoreapp2.1\ConsoleCoreMQCustomer.AssemblyInfoInputs.cache
+D:\joey\DemoSln\ConsoleCoreMQCustomer\obj\Debug\netcoreapp2.1\ConsoleCoreMQCustomer.AssemblyInfo.cs
+D:\joey\DemoSln\ConsoleCoreMQCustomer\bin\Debug\netcoreapp2.1\ConsoleCoreMQCustomer.pdb
+D:\joey\DemoSln\ConsoleCoreMQCustomer\obj\Debug\netcoreapp2.1\ConsoleCoreMQCustomer.dll
+D:\joey\DemoSln\ConsoleCoreMQCustomer\obj\Debug\netcoreapp2.1\ConsoleCoreMQCustomer.pdb

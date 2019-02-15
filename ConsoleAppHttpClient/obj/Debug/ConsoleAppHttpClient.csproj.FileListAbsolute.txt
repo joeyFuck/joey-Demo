@@ -1,0 +1,6 @@
+D:\joey\DemoSln\ConsoleAppHttpClient\bin\Debug\ConsoleAppHttpClient.exe.config
+D:\joey\DemoSln\ConsoleAppHttpClient\bin\Debug\ConsoleAppHttpClient.exe
+D:\joey\DemoSln\ConsoleAppHttpClient\bin\Debug\ConsoleAppHttpClient.pdb
+D:\joey\DemoSln\ConsoleAppHttpClient\obj\Debug\ConsoleAppHttpClient.csproj.CoreCompileInputs.cache
+D:\joey\DemoSln\ConsoleAppHttpClient\obj\Debug\ConsoleAppHttpClient.exe
+D:\joey\DemoSln\ConsoleAppHttpClient\obj\Debug\ConsoleAppHttpClient.pdb
