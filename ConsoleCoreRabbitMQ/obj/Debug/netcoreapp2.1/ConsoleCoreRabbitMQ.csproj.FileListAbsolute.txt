@@ -9,3 +9,14 @@ D:\joey\DemoSln\ConsoleCoreRabbitMQ\obj\Debug\netcoreapp2.1\ConsoleCoreRabbitMQ.
 D:\joey\DemoSln\ConsoleCoreRabbitMQ\obj\Debug\netcoreapp2.1\ConsoleCoreRabbitMQ.dll
 D:\joey\DemoSln\ConsoleCoreRabbitMQ\obj\Debug\netcoreapp2.1\ConsoleCoreRabbitMQ.pdb
 D:\joey\DemoSln\ConsoleCoreRabbitMQ\obj\Debug\netcoreapp2.1\ConsoleCoreRabbitMQ.csprojAssemblyReference.cache
+D:\joey\joey-Demo\ConsoleCoreRabbitMQ\bin\Debug\netcoreapp2.1\ConsoleCoreRabbitMQ.deps.json
+D:\joey\joey-Demo\ConsoleCoreRabbitMQ\bin\Debug\netcoreapp2.1\ConsoleCoreRabbitMQ.runtimeconfig.json
+D:\joey\joey-Demo\ConsoleCoreRabbitMQ\bin\Debug\netcoreapp2.1\ConsoleCoreRabbitMQ.runtimeconfig.dev.json
+D:\joey\joey-Demo\ConsoleCoreRabbitMQ\bin\Debug\netcoreapp2.1\ConsoleCoreRabbitMQ.dll
+D:\joey\joey-Demo\ConsoleCoreRabbitMQ\bin\Debug\netcoreapp2.1\ConsoleCoreRabbitMQ.pdb
+D:\joey\joey-Demo\ConsoleCoreRabbitMQ\obj\Debug\netcoreapp2.1\ConsoleCoreRabbitMQ.csprojAssemblyReference.cache
+D:\joey\joey-Demo\ConsoleCoreRabbitMQ\obj\Debug\netcoreapp2.1\ConsoleCoreRabbitMQ.csproj.CoreCompileInputs.cache
+D:\joey\joey-Demo\ConsoleCoreRabbitMQ\obj\Debug\netcoreapp2.1\ConsoleCoreRabbitMQ.AssemblyInfoInputs.cache
+D:\joey\joey-Demo\ConsoleCoreRabbitMQ\obj\Debug\netcoreapp2.1\ConsoleCoreRabbitMQ.AssemblyInfo.cs
+D:\joey\joey-Demo\ConsoleCoreRabbitMQ\obj\Debug\netcoreapp2.1\ConsoleCoreRabbitMQ.dll
+D:\joey\joey-Demo\ConsoleCoreRabbitMQ\obj\Debug\netcoreapp2.1\ConsoleCoreRabbitMQ.pdb

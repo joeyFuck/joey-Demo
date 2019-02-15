@@ -8,3 +8,14 @@ D:\joey\DemoSln\ConsoleCoreMQCustomer\obj\Debug\netcoreapp2.1\ConsoleCoreMQConsu
 D:\joey\DemoSln\ConsoleCoreMQCustomer\obj\Debug\netcoreapp2.1\ConsoleCoreMQConsumer.AssemblyInfo.cs
 D:\joey\DemoSln\ConsoleCoreMQCustomer\obj\Debug\netcoreapp2.1\ConsoleCoreMQConsumer.dll
 D:\joey\DemoSln\ConsoleCoreMQCustomer\obj\Debug\netcoreapp2.1\ConsoleCoreMQConsumer.pdb
+D:\joey\joey-Demo\ConsoleCoreMQCustomer\bin\Debug\netcoreapp2.1\ConsoleCoreMQConsumer.deps.json
+D:\joey\joey-Demo\ConsoleCoreMQCustomer\bin\Debug\netcoreapp2.1\ConsoleCoreMQConsumer.runtimeconfig.json
+D:\joey\joey-Demo\ConsoleCoreMQCustomer\bin\Debug\netcoreapp2.1\ConsoleCoreMQConsumer.runtimeconfig.dev.json
+D:\joey\joey-Demo\ConsoleCoreMQCustomer\bin\Debug\netcoreapp2.1\ConsoleCoreMQConsumer.dll
+D:\joey\joey-Demo\ConsoleCoreMQCustomer\bin\Debug\netcoreapp2.1\ConsoleCoreMQConsumer.pdb
+D:\joey\joey-Demo\ConsoleCoreMQCustomer\obj\Debug\netcoreapp2.1\ConsoleCoreMQConsumer.csprojAssemblyReference.cache
+D:\joey\joey-Demo\ConsoleCoreMQCustomer\obj\Debug\netcoreapp2.1\ConsoleCoreMQConsumer.csproj.CoreCompileInputs.cache
+D:\joey\joey-Demo\ConsoleCoreMQCustomer\obj\Debug\netcoreapp2.1\ConsoleCoreMQConsumer.AssemblyInfoInputs.cache
+D:\joey\joey-Demo\ConsoleCoreMQCustomer\obj\Debug\netcoreapp2.1\ConsoleCoreMQConsumer.AssemblyInfo.cs
+D:\joey\joey-Demo\ConsoleCoreMQCustomer\obj\Debug\netcoreapp2.1\ConsoleCoreMQConsumer.dll
+D:\joey\joey-Demo\ConsoleCoreMQCustomer\obj\Debug\netcoreapp2.1\ConsoleCoreMQConsumer.pdb
