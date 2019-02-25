@@ -59,3 +59,5 @@ Temporary Items
 /ConsoleCoreMQCustomer/bin
 /ConsoleCoreRabbitMQ/bin
 /packages
+/ConsoleCoreLimitRequest/bin
+/ConsoleCoreLimitRequest/obj

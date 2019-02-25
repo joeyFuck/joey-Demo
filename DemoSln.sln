@@ -21,9 +21,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppHttpClient", "Con
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebMVCDemo", "WebMVCDemo\WebMVCDemo.csproj", "{018FA568-435B-40D7-8393-A19A4FE51782}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleCoreRabbitMQ", "ConsoleCoreRabbitMQ\ConsoleCoreRabbitMQ.csproj", "{251E58D7-D4EF-4617-BCFE-2D86BBE4E21C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleCoreRabbitMQ", "ConsoleCoreRabbitMQ\ConsoleCoreRabbitMQ.csproj", "{251E58D7-D4EF-4617-BCFE-2D86BBE4E21C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleCoreMQConsumer", "ConsoleCoreMQCustomer\ConsoleCoreMQConsumer.csproj", "{9DBEB6FB-7CF7-46B7-AE9F-9B9C2A84B1F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleCoreMQConsumer", "ConsoleCoreMQCustomer\ConsoleCoreMQConsumer.csproj", "{9DBEB6FB-7CF7-46B7-AE9F-9B9C2A84B1F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleCoreLimitRequest", "ConsoleCoreLimitRequest\ConsoleCoreLimitRequest.csproj", "{C8ABFB9B-AA92-4BBB-AB2F-51A4C4F47B61}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{9DBEB6FB-7CF7-46B7-AE9F-9B9C2A84B1F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9DBEB6FB-7CF7-46B7-AE9F-9B9C2A84B1F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9DBEB6FB-7CF7-46B7-AE9F-9B9C2A84B1F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8ABFB9B-AA92-4BBB-AB2F-51A4C4F47B61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8ABFB9B-AA92-4BBB-AB2F-51A4C4F47B61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8ABFB9B-AA92-4BBB-AB2F-51A4C4F47B61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8ABFB9B-AA92-4BBB-AB2F-51A4C4F47B61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
